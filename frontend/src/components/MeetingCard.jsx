@@ -1,5 +1,3 @@
-export default MeetingForm;
-
 import React from 'react';
 
 const MeetingCard = ({ meeting }) => {
@@ -20,3 +18,5 @@ const MeetingCard = ({ meeting }) => {
     </div>
   );
 };
+
+export default MeetingCard;
