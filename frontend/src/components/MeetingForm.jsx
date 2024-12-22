@@ -69,3 +69,5 @@ const MeetingForm = ({ onSubmit }) => {
     </form>
   );
 };
+
+export default MeetingForm;
